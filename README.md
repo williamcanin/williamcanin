@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 ```python
 skills = {
-    "Languages": "Python", "Shell", "Javascript",
-    "Backend": "PostGreSQL",
-    "Frontend": "HTML", "CSS", "SASS", "Bootstrap", "Django", "Jekyll",
-    "Tools": "Gulp", "Git", "VSCode", "PyCharm",
-    "OS": "Linux"
+    "Languages": ["Python", "Shell", "Javascript"],
+    "Backend": ["PostGreSQL"],
+    "Frontend": ["HTML", "CSS", "SASS", "Bootstrap", "Django", "Jekyll"],
+    "Tools": ["Gulp", "Git", "VSCode", "PyCharm"],
+    "OS": ["Linux"]
 }
 ```
