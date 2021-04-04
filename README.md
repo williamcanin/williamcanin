@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ```python
-skills = {
+my_tech_stack = {
     "Languages": ["Python", "Shell", "Javascript"],
     "Backend": ["PostGreSQL"],
     "Frontend": ["HTML", "CSS", "SASS", "Bootstrap", "Django", "Jekyll"],
