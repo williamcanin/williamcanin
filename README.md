@@ -21,6 +21,7 @@ skills = {
     "Languages": "Python", "Shell", "Javascript",
     "Backend": "PostGreSQL",
     "Frontend": "HTML", "CSS", "SASS", "Bootstrap", "Django", "Jekyll",
-    "Tools & OS": "Linux", "Gulp", "Git"
+    "Tools": "Gulp", "Git", "VSCode", "PyCharm",
+    "OS": "Linux"
 }
 ```
