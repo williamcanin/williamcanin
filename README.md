@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+```python
+skills = {
+    "Languages": "Python", "Shell",
+    "Backend": "PostGreSQL",
+    "Frontend": "HTML", "CSS", "SASS", "Bootstrap", "Django", "Jekyll",
+    "Tools & OS": "Linux", "Gulp", "Git"
+}
+```
