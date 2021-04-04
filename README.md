@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ```python
 skills = {
-    "Languages": "Python", "Shell",
+    "Languages": "Python", "Shell", "Javascript",
     "Backend": "PostGreSQL",
     "Frontend": "HTML", "CSS", "SASS", "Bootstrap", "Django", "Jekyll",
     "Tools & OS": "Linux", "Gulp", "Git"
