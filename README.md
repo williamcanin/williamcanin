@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ```python
 my_tech_stack = {
-    "Languages": ["Python", "Shell script", "Javascript"],
-    "Backend": ["PostGreSQL"],
+    "Backend": ["Python", "Shell script", "Javascript"],
     "Frontend": ["HTML", "CSS", "SASS", "Bootstrap", "Django", "Jekyll"],
+    "Database": ["PostGreSQL"],
     "Tools": ["VSCode", "Git", "PyCharm", "Gulp"],
     "OS": ["Linux"]
 }
