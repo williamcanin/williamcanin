@@ -22,6 +22,6 @@ my_tech_stack = {
     "Frontend": ["HTML", "CSS", "SASS", "Bootstrap", "Django", "Jekyll"],
     "Database": ["PostGreSQL"],
     "Tools": ["VSCode", "Git", "Shell", "PyCharm", "Gulp"],
-    "OS": ["Linux"]
+    "OS": ["Linux (Arch Linux)"]
 }
 ```
