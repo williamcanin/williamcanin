@@ -29,8 +29,8 @@ my_main_tech_stack = {
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamcanin&hide=html,ruby&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=williamcanin&theme=buefy"/></td>
+        <td><img width="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamcanin&hide=html,ruby&layout=compact&theme=buefy" /></td>
+        <td><img width="auto" align="left" src="https://github-readme-stats.vercel.app/api?username=williamcanin&theme=buefy"/></td>
     </tr>   
 </table>
 </center> 
