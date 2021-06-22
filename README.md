@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 ```python
-my_tech_stack = {
-    "Backend": ["Python", "Javascript (when necessary)"],
+my_main_tech_stack = {
+    "Backend": ["Python"],
     "Frontend": ["HTML", "CSS", "SASS", "Bootstrap", "Django", "Jekyll"],
     "Database": ["PostGreSQL"],
     "Tools": ["VSCode", "Git", "Shell", "PyCharm", "Gulp"],
@@ -29,7 +29,7 @@ my_tech_stack = {
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamcanin&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamcanin&hide=html,ruby&layout=compact&theme=buefy" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=williamcanin&theme=buefy"/></td>
     </tr>   
 </table>
