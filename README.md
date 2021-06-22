@@ -26,11 +26,5 @@ my_main_tech_stack = {
 }
 ```
 
-<center>
-<table>
-    <tr>
-        <td><img width="340px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamcanin&hide=html,ruby&layout=compact&theme=buefy" /></td>
-        <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api?username=williamcanin&theme=buefy"/></td>
-    </tr>   
-</table>
-</center> 
+|<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamcanin&hide=html,ruby&layout=compact&theme=buefy"/> | <img width="410px" src="https://github-readme-stats.vercel.app/api?username=williamcanin&theme=buefy"/> |
+|---------|-------|
