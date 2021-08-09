@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+"Fé em Deus que ele é justo
+Ei irmão nunca se esqueça, na guarda, guerreiro
+Levanta a cabeça, truta" - Racionais MC's
 
 ```python
 my_main_tech_stack = {
