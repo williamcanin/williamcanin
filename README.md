@@ -27,8 +27,4 @@ my_main_tech_stack = {
 
 |<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamcanin&hide=html,css,scss,coffeescript,makefile,batchfile,ruby&hide_border=true&layout=compact&theme=buefy"/> | <img width="405px" src="https://github-readme-stats.vercel.app/api?username=williamcanin&theme=buefy&hide_border=true"/> |
 |---------|-------|
-
-
-"Fé em Deus que ele é justo   
-Ei irmão nunca se esqueça, na guarda, guerreiro   
-Levanta a cabeça, truta" - Racionais MC's   
+ 
