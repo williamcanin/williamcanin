@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 
 ```python
 my_main_tech_stack = {
-    "Backend": ["Python"],
-    "Frontend": ["HTML", "CSS", "SASS", "Bootstrap", "Django", "Jekyll"],
+    "Languages": ["Python"],
+    "Frameworks": ["Django"],
+    "Frontend": ["HTML", "CSS", "SASS", "Bootstrap", "Jekyll"],
     "Database": ["PostGreSQL"],
-    "Tools": ["VSCode", "Git", "Shell", "PyCharm", "Gulp"],
-    "OS": ["Linux (Arch Linux)"]
+    "Tools": ["VSCode", "Git", "Shell", "Gulp"],
+    "OS": ["Linux"]
 }
 ```
 
