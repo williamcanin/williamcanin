@@ -16,13 +16,16 @@ Here are some ideas to get you started:
 -->
 
 ```python
-my_main_tech_stack = {
-    "Languages": ["Python"],
-    "Frameworks": ["Django"],
-    "Frontend": ["HTML", "CSS", "SASS", "Bootstrap", "Jekyll"],
-    "Database": ["PostGreSQL"],
-    "Tools": ["VSCode", "Git", "Shell", "Gulp"],
-    "OS": ["Linux"]
+workflow = {
+    "my_main_tech_stack": {
+        "Languages": ["Python"],
+        "Frameworks": ["Django"],
+        "Frontend": ["HTML", "CSS", "SASS", "Bootstrap", "Jekyll"],
+        "Database": ["PostGreSQL"],
+        "Tools": ["VSCode", "Git", "Shell", "Gulp"],
+        "OS": ["Linux"]
+    },
+    "my_main_projects": ["zshpower", "dotctrl"]
 }
 ```
 
