@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ```python
+#!/bin/env python3
+
 workflow = {
     "my_main_tech_stack": {
         "Languages": ["Python"],
