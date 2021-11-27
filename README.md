@@ -26,8 +26,7 @@ workflow = {
         "Database": ["PostGreSQL"],
         "Tools": ["VSCode", "Git", "Shell", "Gulp"],
         "OS": ["Linux"]
-    },
-    "my_main_projects": ["zshpower", "dotctrl"]
+    }
 }
 ```
 
