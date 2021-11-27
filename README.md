@@ -26,7 +26,7 @@ workflow = {
         "Frameworks": ["Django"],
         "Frontend": ["HTML", "CSS", "SASS", "Bootstrap", "Jekyll"],
         "Database": ["PostGreSQL"],
-        "Tools": ["VSCode", "Git", "Shell", "Gulp"],
+        "Tools": ["VSCode", "PyCharm", "Git", "Shell", "Gulp"],
         "OS": ["Linux"]
     },
 }
