@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ```python
-#!/bin/env python3
+#!/usr/bin/env python3
 
 workflow = {
     "my_main_tech_stack": {
@@ -26,10 +26,18 @@ workflow = {
         "Database": ["PostGreSQL"],
         "Tools": ["VSCode", "Git", "Shell", "Gulp"],
         "OS": ["Linux"]
+    },
+    "social_networks": {
+        "GitHub": "You are already in it.",
+        "Gist": "https://gist.github.com/williamcanin",
+        "YouTube": "https://www.youtube.com/c/williamcanin",
+        "LinkedIn": "https://www.linkedin.com/in/williamcostacanin",
+        "Facebook": "Error 404",
+        "Instagram": "Error 404",
+        "Twitter": "Error 404",
     }
 }
 ```
-
 |<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamcanin&hide=html,css,scss,coffeescript,makefile,mako, pug, batchfile,ruby&hide_border=true&layout=compact&theme=buefy"/> | <img width="405px" src="https://github-readme-stats.vercel.app/api?username=williamcanin&theme=buefy&hide_border=true"/> |
 |---------|-------|
  
