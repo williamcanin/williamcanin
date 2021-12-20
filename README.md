@@ -31,9 +31,8 @@ workflow = {
     },
 }
 
-other_social_networks = {
+follow_me = {
     "YouTube": "https://www.youtube.com/c/williamcanin",
-    "LinkedIn": "https://www.linkedin.com/in/williamcostacanin",
 }
 ```
 |<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamcanin&hide=html,css,scss,coffeescript,makefile,mako, pug, batchfile,ruby&hide_border=true&layout=compact&theme=buefy"/> | <img width="405px" src="https://github-readme-stats.vercel.app/api?username=williamcanin&theme=buefy&hide_border=true"/> |
