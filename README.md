@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 #!/usr/bin/env python3
 
 print("Hello, World!")
-print("My name is William, and I am a programming and hacking enthusiast."
+print("My name is William, and I am a programming and hacking enthusiast.")
 
 workflow = {
     "my_main_tech_stack": {
