@@ -25,11 +25,11 @@ MY_ENVIRONMENT = "https://github.com/williamcanin/my_environment"
 
 workflow = {
     "my_main_tech_stack": {
-        "Languages": ["Python"],
+        "Languages": ["Python", "Shell Script"],
         "Frameworks": ["Django"],
         "Frontend": ["HTML", "CSS", "SASS", "Bootstrap", "Jekyll"],
         "Database": ["PostGreSQL"],
-        "Tools": ["VSCode", "PyCharm", "Git", "Shell", "Gulp"],
+        "Tools": ["VSCode", "Vim", "PyCharm", "Git", "DBeaver"],
         "OS": ["Linux"]
     },
 }
