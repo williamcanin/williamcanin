@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 print("Hello, World!")
 print("My name is William, and I am a programming and hacking enthusiast.")
 
+MY_ENVIRONMENT = "https://github.com/williamcanin/my_environment"
+
 workflow = {
     "my_main_tech_stack": {
         "Languages": ["Python"],
