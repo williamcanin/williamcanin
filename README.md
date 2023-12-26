@@ -51,15 +51,14 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
 
   let workflow: HashMap<&str, HashMap<&str, Vec<&str>>> = HashMap::from([
     (
-        "My Main Tech Stack",
-        HashMap::from([
-            ("Languages", vec!["Python", "Shell Script"]),
-            ("Frameworks", vec!["Django"]),
-            ("Frontend", vec!["HTML", "CSS", "SASS", "Bootstrap", "Jekyll"]),
-            ("Database", vec!["PostGreSQL"]),
-            ("Tools", vec!["VSCode", "Vim", "PyCharm", "Git", "DBeaver"]),
-            ("OS", vec!["Linux"]),
-        ]),
+      "My Main Tech Stack",
+      HashMap::from([
+        ("Languages", vec!["Rust", "Python", "Shell Script"]),
+        ("Frontend", vec!["HTML", "CSS", "SASS", "Bootstrap", "Jekyll"]),
+        ("Database", vec!["PostGreSQL", "MySQL"]),
+        ("Tools", vec!["VSCode", "Vim", "JetBrains IDEs", "Git"]),
+        ("OS", vec!["Linux", "Windows"]),
+      ]),
     ),
   ]);
 
