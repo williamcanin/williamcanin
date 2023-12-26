@@ -43,6 +43,8 @@ follow_me = {
 -->
 
 ```rust
+// main.rs
+
 use std::collections::HashMap;
 
 fn main() -> Result<(), Box<dyn std::error::Error>> {
