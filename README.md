@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ```python
 #!/usr/bin/env python3
 
@@ -39,5 +40,37 @@ follow_me = {
 }
 ```
 <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamcanin&hide=html,coffeescript,makefile,mako,pug,batchfile,ruby,tsql,procfile&hide_border=true&layout=compact&theme=buefy"/> <img width="405px" src="https://github-readme-stats.vercel.app/api?username=williamcanin&theme=buefy&hide_border=true"/>
+-->
 
- 
+```rust
+use std::collections::HashMap;
+
+fn main() -> Result<(), Box<dyn std::error::Error>> {
+
+  println!("Hello, World!");
+  println!("My name is William, and I am a programming and hacking enthusiast.");
+
+  let workflow: HashMap<&str, HashMap<&str, Vec<&str>>> = HashMap::from([
+    (
+        "my_main_tech_stack",
+        HashMap::from([
+            ("Languages", vec!["Python", "Shell Script"]),
+            ("Frameworks", vec!["Django"]),
+            ("Frontend", vec!["HTML", "CSS", "SASS", "Bootstrap", "Jekyll"]),
+            ("Database", vec!["PostGreSQL"]),
+            ("Tools", vec!["VSCode", "Vim", "PyCharm", "Git", "DBeaver"]),
+            ("OS", vec!["Linux"]),
+        ]),
+    ),
+  ]);
+
+  let follow_me: &str = "https://www.youtube.com/c/williamcanin";
+
+  println!("{:?}", workflow);
+  println!("{:?}", follow_me);
+
+  Ok(())
+  
+}
+```
+
