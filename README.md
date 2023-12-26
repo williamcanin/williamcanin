@@ -47,29 +47,36 @@ use std::collections::HashMap;
 
 fn main() -> Result<(), Box<dyn std::error::Error>> {
 
-  println!("Hello, World!");
-  println!("My name is William, and I am a programming and hacking enthusiast.");
-
   let workflow: HashMap<&str, HashMap<&str, Vec<&str>>> = HashMap::from([
     (
-        "my_main_tech_stack",
+        "My Main Tech Stack",
         HashMap::from([
-            ("Languages", vec!["Rust", "Python", "Shell Script"]),
+            ("Languages", vec!["Python", "Shell Script"]),
+            ("Frameworks", vec!["Django"]),
             ("Frontend", vec!["HTML", "CSS", "SASS", "Bootstrap", "Jekyll"]),
-            ("Database", vec!["PostGreSQL", "MySQL"]),
-            ("Tools", vec!["VSCode", "Vim", "JetBrains IDEs", "Git"]),
-            ("OS", vec!["Linux", "Windows"]),
+            ("Database", vec!["PostGreSQL"]),
+            ("Tools", vec!["VSCode", "Vim", "PyCharm", "Git", "DBeaver"]),
+            ("OS", vec!["Linux"]),
         ]),
     ),
   ]);
 
-  let follow_me: &str = "https://www.youtube.com/c/williamcanin";
+  let yt_link: &str = "https://www.youtube.com/c/williamcanin";
 
-  println!("{:?}", workflow);
-  println!("{:?}", follow_me);
+  println!("Hello, World!");
+  println!("My name is William, and I am a programming and hacking enthusiast.");
+
+  for (key, value) in &workflow {
+    println!("{}:", key);
+    for (inner_key, inner_value) in value {
+        println!("  {}: {:?}", inner_key, inner_value);
+    }
+  }
+
+  println!("YouTube::> {}", yt_link);
 
   Ok(())
-  
+
 }
 ```
 
