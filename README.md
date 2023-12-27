@@ -47,7 +47,7 @@ follow_me = {
 
 use std::collections::HashMap;
 
-fn main() -> Result<(), Box<dyn std::error::Error>> {
+fn main() {
 
   let workflow: HashMap<&str, HashMap<&str, Vec<&str>>> = HashMap::from([
     (
@@ -75,8 +75,6 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
   }
 
   println!("YouTube::> {}", yt_link);
-
-  Ok(())
 
 }
 ```
